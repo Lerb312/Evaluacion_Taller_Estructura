@@ -1,0 +1,4 @@
+/home/cgarcia/Projects/Emergencia/Emergencia/bin/Release/Emergencia.exe
+/home/cgarcia/Projects/Emergencia/Emergencia/obj/x86/Release/Emergencia.csproj.CoreCompileInputs.cache
+/home/cgarcia/Projects/Emergencia/Emergencia/obj/x86/Release/Emergencia.exe
+/home/cgarcia/Projects/Emergencia/Emergencia/obj/x86/Release/Emergencia.csproj.AssemblyReference.cache

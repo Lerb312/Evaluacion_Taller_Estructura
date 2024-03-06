@@ -1,0 +1,6 @@
+/home/cgarcia/Projects/Emergencia/Emergencia/bin/Debug/Emergencia.exe
+/home/cgarcia/Projects/Emergencia/Emergencia/bin/Debug/Emergencia.pdb
+/home/cgarcia/Projects/Emergencia/Emergencia/obj/x86/Debug/Emergencia.csproj.AssemblyReference.cache
+/home/cgarcia/Projects/Emergencia/Emergencia/obj/x86/Debug/Emergencia.csproj.CoreCompileInputs.cache
+/home/cgarcia/Projects/Emergencia/Emergencia/obj/x86/Debug/Emergencia.exe
+/home/cgarcia/Projects/Emergencia/Emergencia/obj/x86/Debug/Emergencia.pdb
